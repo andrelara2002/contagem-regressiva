@@ -1,3 +1,5 @@
-# web-platform-co1sda
+Contador de contagem regressiva até um determinado momento escolhido pelo usuário.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-co1sda)
+Contém o tempo em Dias, Horas, Minutos e Segundos!
+
+Gravado em Javascript, HTML, CSS
